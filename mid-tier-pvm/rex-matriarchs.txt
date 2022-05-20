@@ -382,7 +382,7 @@ Use a revolution bar with a primary focus on channelled abilities as they are le
 .
 ⬥ **Revo Bar**
 .
-**Note:** If not using Cryptbloom, it is suggested to place Debilitate <:debil:535541278264393729> after Wild Magic in the action bar.
+**Note:** If not using Cryptbloom, it is suggested to place Debilitate <:debil:535541278264393729> after Wild Magic <:wm:535533809978966037> in the action bar.
 .img:https://media.discordapp.net/attachments/724129126314803230/977011350276558848/unknown.png
 .
 ⬥ **Preset**
